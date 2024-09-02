@@ -1,3 +1,8 @@
+<h1>Hello, I'm Rafael Burghini 👋</h1>
+
+<h2>Back-End Developer 🚀</h2>
+
+
 # 💫 About Me:
 🔭 I’m currently working on my own<br>👯 I’m looking to collaborate on some open-source projects<br>🤝 I’m looking for help with AI<br>🌱 I’m currently mastering Python<br>💬 Ask me about Clean Code<br>⚡ Fun fact: I started programming with 14yo on C++ and robotics
 
